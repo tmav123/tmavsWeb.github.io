@@ -25,4 +25,4 @@ Right now the schedule could change, but this is my plan
 | 12 | Write an interface |
 
 
-![alt text](http:://picsum.photos/200/200)
+![alt text](Frankie_Mermaid.jpg)
