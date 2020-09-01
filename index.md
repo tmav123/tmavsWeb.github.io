@@ -25,4 +25,5 @@ Right now the schedule could change, but this is my plan
 | 12 | Write an interface |
 
 ![image](Frankie_Mermaid.jpg)
+>This is just a test photo for now, enjoy frankie mermaid while he's here
 
