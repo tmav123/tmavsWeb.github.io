@@ -24,5 +24,5 @@ Right now the schedule could change, but this is my plan
 | 11 |  Build a wired or wireless node network |
 | 12 | Write an interface |
 
+![image](Frankie_Mermaid.jpg)
 
-![alt text](Frankie_Mermaid.jpg)&nbsp;&nbsp;&nbsp;&nbsp;
