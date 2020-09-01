@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my creation 101 webpage!
 
-You can use the [editor on GitHub](https://github.com/tmav123/tmavsWeb.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+On this webpage I am going to post picutes, descriptions, and videos about what I'm making.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Each week you'll get to see me make something new!
 
 
 ### Markdown
