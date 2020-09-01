@@ -27,3 +27,5 @@ Right now the schedule could change, but this is my plan
 ![image](Frankie_Mermaid.jpg)
 >This is just a test photo for now, enjoy frankie mermaid while he's here
 
+<img src="Frankie_Mermaid.jpg" alt="Italian Trulli">
+
