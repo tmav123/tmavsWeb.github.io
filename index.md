@@ -5,9 +5,13 @@ On this webpage I am going to post picutes, descriptions, and videos about what 
 Each week you'll get to see me make something new!
 
 
-### Markdown
+### Schedule
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Right now the schedule could change, but this is my plan
+
+|Week number | What I'm building!|
+| --- | --- |
+| week number 1 | This website! |
 
 ```markdown
 Syntax highlighted code block
