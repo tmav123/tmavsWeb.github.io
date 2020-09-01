@@ -1,4 +1,4 @@
-## Welcome to my creation 101 webpage!
+## **Welcome to my creation 101 webpage!**
 
 On this webpage I am going to post picutes, descriptions, and videos about what I'm making.  
 
@@ -11,7 +11,19 @@ Right now the schedule could change, but this is my plan
 
 |Week number | What I'm building!|
 | --- | --- |
-| week number 1 | This website! |
+| 1 | Model for my final project |
+| 2 | Laser cutting stuff |
+| 3 | Electronics Production |
+| 4 | Scan and print something |
+| 5 | Make something big! |
+| 6 | Cast something |
+| 7 | Program board to do something |
+| 8 | Write an interface |
+| 9 | Measure input from an input device |
+| 10 | Add output device to your microcontroller |
+| 11 |  Build a wired or wireless node network |
+| 12 | Write an interface |
+
 
 ```markdown
 Syntax highlighted code block
